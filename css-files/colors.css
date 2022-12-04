@@ -1,3 +1,9 @@
 
 :root {
+    --colorPrimaryPurple100: #9846ff;    
+    --colorPrimaryGreen100: #009d23;    
+    --colorSecondaryPurple50: #e8d5ff;    
+    --colorSecondaryGreen50: #daffe2;    
+    --colorNeutralDark100: #1c0d2e;    
+    --colorNeutralLight50: #c6c6c6;    
 }
